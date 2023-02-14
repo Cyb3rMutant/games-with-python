@@ -1,0 +1,17 @@
+Possible project ideas
+
+Who Wants To Be A Millionaire?
+
+Cows and Bulls guessing game.
+
+A quiz which asks random maths questions and records the scores for the people taking part.  Perhaps you can generate reports showing how the users are doing over time?
+
+A game of tic-tac-toe where the computer plays to win, not randomly.  See how much you can improve it's game.  Could you extend it to play on a 4 by 4 grid?
+
+A text adventure game where most of the functionality is shown (locations, objects, get, put, hit, moving and state of locations changing), but you don't need to write the whole adventure story.
+
+Recreate Conway's game of Life or Langston's Ant.  If there is time, add levels of complexity to the model such as an internal 'colour' to make 'turmites'.
+
+A packing program which works out the best way to fill a set of trucks with the parcels you are given.
+
+A program which plays BattleShips with the user, taking turns to guess where your boats are hidden on a grid.
